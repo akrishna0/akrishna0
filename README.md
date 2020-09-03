@@ -34,3 +34,17 @@
 <a href="https://sourcerer.io/akrishna0"><img src="https://img.shields.io/badge/HTML-47%20commits-green.svg?style=for-the-badge" alt=""></a>
 
 <a href="https://sourcerer.io/akrishna0"><img src="https://img.shields.io/badge/CSS-202%20commits-purple.svg?style=for-the-badge" alt=""></a>
+<hr>
+<p align="center">
+  <i>Wanna connect with me</i>
+
+  <p align="center">
+    <a href="https://twitter.com/grep_akash" alt="Twitter"><img width="28px" src="https://cdn2.iconfinder.com/data/icons/minimalism/512/twitter.png"></a>
+    <a href="https://www.linkedin.com/in/grep-akash/" alt="Linkedin"><img width="28px" src="https://i7.pngguru.com/preview/668/576/941/social-media-linkedin-computer-icons-facebook-inc-social-networking-service-social-media.jpg"></a>
+    <a href="mailto:akash.grep@gmail.com" alt="Contact me"><img width="28px" src="https://img.pngio.com/mail-icon-with-png-and-vector-format-for-free-unlimited-download-mail-png-512_512.png"></a>
+    
+  </p>
+
+  
+ [![HitCount](http://hits.dwyl.com/akrishna0/akrishna0.svg)](http://hits.dwyl.com/akrishna0/akrishna0)<-
+ 
