@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://sourcerer.io/akrishna0"><img src="https://img.shields.io/badge/JavaScript-58%20commits-yellow.svg?style=for-the-badge" alt=""></a>
+<a href="https://sourcerer.io/akrishna0"><img src="https://img.shields.io/badge/JavaScript-242%20commits-yellow.svg?style=for-the-badge" alt=""></a>
 
-<a href="https://sourcerer.io/akrishna0"><img src="https://img.shields.io/badge/HTML-138%20commits-green.svg?style=for-the-badge" alt=""></a>
+<a href="https://sourcerer.io/akrishna0"><img src="https://img.shields.io/badge/HTML-47%20commits-green.svg?style=for-the-badge" alt=""></a>
 
-<a href="https://sourcerer.io/akrishna0"><img src="https://img.shields.io/badge/CSS-89%20commits-purple.svg?style=for-the-badge" alt=""></a>
+<a href="https://sourcerer.io/akrishna0"><img src="https://img.shields.io/badge/CSS-202%20commits-purple.svg?style=for-the-badge" alt=""></a>
