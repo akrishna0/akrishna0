@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=akrishna0&hide=contribs,stars&show_icons=true&theme=merko)](https://github.com/akrishna0/github-readme-stats)
+
+
+<a href="https://sourcerer.io/akrishna0"><img src="https://img.shields.io/badge/C++-325%20commits-blue.svg?style=for-the-badge" alt=""></a>
+<a href="https://sourcerer.io/akrishna0"><img src="https://img.shields.io/badge/JavaScript-58%20commits-yellow.svg?style=for-the-badge" alt=""></a>
+<a href="https://sourcerer.io/akrishna0"><img src="https://img.shields.io/badge/Python-306%20commits-orange.svg?style=for-the-badge" alt=""></a>
+<a href="https://sourcerer.io/akrishna0"><img src="https://img.shields.io/badge/HTML-138%20commits-green.svg?style=for-the-badge" alt=""></a>
+
+<a href="https://sourcerer.io/akrishna0"><img src="https://img.shields.io/badge/CSS-89%20commits-purple.svg?style=for-the-badge" alt=""></a>
