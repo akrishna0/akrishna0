@@ -45,6 +45,4 @@
     
   </p>
 
-  
- [![HitCount](http://hits.dwyl.com/akrishna0/akrishna0.svg)](http://hits.dwyl.com/akrishna0/akrishna0)<-
  
