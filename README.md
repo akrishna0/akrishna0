@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on DSA,React.js, Node.js and Express.js 
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning How to manage the day 
 - 👯 I’m looking to collaborate on any opensource project 
 - 💬 Ask me about anything <a href="https://www.linkedin.com/in/grep-akash/">here</a>
 
